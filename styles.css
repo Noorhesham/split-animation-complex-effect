@@ -35,7 +35,7 @@ section {
 
 .hero {
   align-items: flex-end;
-  background: url(./assets/hero.jpg) no-repeat 50% 50%;
+  background: url(./assets/thumb-1920-1369935.jpg) no-repeat 50% 50%;
   padding-bottom: 4em;
   background-size: cover;
   color: #fff;
@@ -95,7 +95,7 @@ section {
 .service p {
   text-transform: uppercase;
   font-family: "PP NeueBit";
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 600;
   color: #d5d5d5;
   transition: color 0.3s;
